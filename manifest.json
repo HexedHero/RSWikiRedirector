@@ -20,8 +20,7 @@
       	"*://runescape.wikia.com/*",
       	"*://oldschoolrunescape.fandom.com/*",
       	"*://oldschoolrunescape.wikia.com/*",
-        "webNavigation",
-        "tabs"
+        "webNavigation"
 
 	],
 	"icons":
