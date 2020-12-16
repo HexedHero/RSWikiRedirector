@@ -3,7 +3,7 @@
 	"name": "RS Wiki Redirector",
 	"author": "HexedHero",
 	"version": "1.0.1",
-	"description": "Redirect to the new RS Wiki",
+	"description": "Redirects you to the new RS Wiki!",
 	"manifest_version": 2,
 
 	"background":
