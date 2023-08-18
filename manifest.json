@@ -1,35 +1,35 @@
 {
-	
-	"name": "RS Wiki Redirector",
-	"author": "HexedHero",
-	"version": "1.0.4",
-	"description": "Redirects you to the new RS Wiki!",
-	"manifest_version": 2,
+    
+    "name": "RS Wiki Redirector",
+    "author": "HexedHero",
+    "version": "1.0.4",
+    "description": "Redirects you to the new RS Wiki!",
+    "manifest_version": 2,
 
-	"background":
-	{
+    "background":
+    {
 
-		"scripts": ["background.js"],
-		"persistent": true
+        "scripts": ["background.js"],
+        "persistent": true
 
-	},
-	"permissions":
-	[
+    },
+    "permissions":
+    [
 
-		"*://runescape.fandom.com/*",
-		"*://runescape.wikia.com/*",
-		"*://oldschoolrunescape.fandom.com/*",
-		"*://oldschoolrunescape.wikia.com/*",
-		"webNavigation"
+        "*://runescape.fandom.com/*",
+        "*://runescape.wikia.com/*",
+        "*://oldschoolrunescape.fandom.com/*",
+        "*://oldschoolrunescape.wikia.com/*",
+        "webNavigation"
 
-	],
-	"icons":
-	{
+    ],
+    "icons":
+    {
 
-		"16": "icon16.png",
-		"48": "icon48.png",
-		"128": "icon128.png"
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
 
-	}
-	
+    }
+    
 }
