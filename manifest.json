@@ -2,7 +2,7 @@
 	
 	"name": "RS Wiki Redirector",
 	"author": "HexedHero",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Redirects you to the new RS Wiki!",
 	"manifest_version": 2,
 
@@ -16,20 +16,20 @@
 	"permissions":
 	[
 
-      	"*://runescape.fandom.com/*",
-      	"*://runescape.wikia.com/*",
-      	"*://oldschoolrunescape.fandom.com/*",
-      	"*://oldschoolrunescape.wikia.com/*",
-        "webNavigation"
+		"*://runescape.fandom.com/*",
+		"*://runescape.wikia.com/*",
+		"*://oldschoolrunescape.fandom.com/*",
+		"*://oldschoolrunescape.wikia.com/*",
+		"webNavigation"
 
 	],
 	"icons":
-	{ 
+	{
 
 		"16": "icon16.png",
-        "48": "icon48.png",
-        "128": "icon128.png"
+		"48": "icon48.png",
+		"128": "icon128.png"
 
-    }
+	}
 	
 }
